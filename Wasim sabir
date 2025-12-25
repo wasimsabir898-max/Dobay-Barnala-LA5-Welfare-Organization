@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+<meta charset="UTF-8">
+<title>Dobay Barnala LA5 Welfare Organization</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+  margin:0;
+  font-family:Arial, "Noto Nastaliq Urdu", sans-serif;
+  background:#f4f6f5;
+  direction:rtl;
+}
+header{
+  background:#0b5d3b;
+  color:white;
+  padding:25px 15px;
+  text-align:center;
+}
+section{
+  background:white;
+  margin:15px;
+  padding:15px;
+  border-radius:10px;
+}
+h2{
+  color:#0b5d3b;
+}
+ul{
+  padding-right:20px;
+}
+.project{
+  border:1px solid #ddd;
+  padding:10px;
+  border-radius:8px;
+  margin-top:10px;
+}
+.donate{
+  background:#e8f5ee;
+  border:2px solid #0b5d3b;
+}
+.whatsapp{
+  display:inline-block;
+  background:#25D366;
+  color:white;
+  padding:12px 20px;
+  border-radius:8px;
+  margin-top:10px;
+  text-decoration:none;
+}
+footer{
+  background:#0b5d3b;
+  color:white;
+  text-align:center;
+  padding:15px;
+  font-size:14px;
+}
+a{
+  color:#0b5d3b;
+  font-weight:bold;
+  text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Dobay Barnala LA5 Welfare Organization</h1>
+<p>(Azad Kashmir)</p>
+<p>خدمتِ انسانیت — صدقۂ جاریہ</p>
+</header>
+
+<section>
+<h2>تنظیم کا تعارف</h2>
+<p>
+Dobay Barnala LA5 Welfare Organization ایک رضاکارانہ فلاحی تنظیم ہے
+جو آزاد کشمیر کے گاؤں ڈوبے برنالہ میں
+غریب، یتیم، بیوہ اور مستحق افراد کی مدد کے لیے کام کر رہی ہے۔
+</p>
+</section>
+
+<section>
+<h2>ہمارے فلاحی کام (Our Works)</h2>
+
+<div class="project">
+<strong>👶 یتیم بچوں کی کفالت</strong>
+<p>تعلیم، یونیفارم، کتابیں اور بنیادی ضروریات۔</p>
+</div>
+
+<div class="project">
+<strong>🏥 علاج اور دوائیاں</strong>
+<p>غریب مریضوں کے علاج اور دواؤں کا انتظام۔</p>
+</div>
+
+<div class="project">
+<strong>📚 تعلیم</strong>
+<p>غریب بچوں کی اسکول فیس اور تعلیمی سہولت۔</p>
+</div>
+
+<div class="project">
+<strong>🧺 راشن اور امداد</strong>
+<p>مستحق خاندانوں کے لیے راشن اور روزمرہ ضروریات۔</p>
+</div>
+
+<div class="project">
+<strong>🏡 ماڈل گاؤں منصوبہ</strong>
+<p>گاؤں کو صاف، تعلیم یافتہ اور خود کفیل بنانا۔</p>
+</div>
+
+</section>
+
+<section class="donate">
+<h2>عطیہ / Donate</h2>
+
+<p><strong>🌍 International (Italy / Europe)</strong></p>
+<p>
+Bank: UniCredit (Italy)<br>
+Account Name: WASIM SABIR<br>
+IBAN: IT74V0200801673000420710073<br>
+📞 <a href="tel:+393482784434">+39 348 278 4434</a>
+</p>
+
+<a class="whatsapp" href="https://wa.me/393482784434" target="_blank">
+WhatsApp (Italy)
+</a>
+
+<hr>
+
+<p><strong>🇵🇰 Pakistan Donation</strong></p>
+<p>
+Bank: Allied Bank Limited (ABL)<br>
+Branch: Barnala (1419)<br>
+Account Title: Muhammad Waris & Farman Ali<br>
+IBAN: PK82ABPA0010152698760012<br>
+📞 0342-9842301 / 0305-5742301
+</p>
+
+<p>
+آپ کسی بھی رقم سے حصہ ڈال سکتے ہیں —
+1 روپیہ، 50 پیسے یا 1 سینٹ بھی قیمتی ہے۔
+</p>
+</section>
+
+<section>
+<h2>شفافیت اور اعتماد</h2>
+<p>
+تنظیم کے تمام عطیات دیانت داری اور شفاف طریقے سے
+صرف فلاحی کاموں میں استعمال کیے جاتے ہیں۔
+ضرورت پڑنے پر تفصیلات فراہم کی جاتی ہیں۔
+</p>
+</section>
+
+<footer>
+<p>
+Dobay Barnala LA5 Welfare Organization – Azad Kashmir<br>
+یہ ایک غیر منافع بخش، رضاکارانہ فلاحی تنظیم ہے
+</p>
+</footer>
+
+</body>
+</html>
